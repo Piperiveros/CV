@@ -1,0 +1,191 @@
+body{
+	background-color: silver;
+}
+
+.viewport{
+	background-color: white;
+	width: 80%;
+	margin-left: 120px;
+	margin-top: 110px;
+	overflow: hidden;
+	margin-bottom: 100px;
+
+}
+
+img{
+	border-radius: 50%;
+	position: absolute;
+	margin-left: 400px;
+	border: 5px solid #D6DBDF;
+	margin-top: -110px;
+
+
+}
+
+.header{
+	border-bottom: 1px solid lightgrey;
+	margin-top: 100px;
+}
+.row{
+	clear: both;
+}
+
+[class^="col-"] {
+	float: left;
+}
+
+.col-md-1{
+	width: 10%;
+
+}
+
+.col-md-2{
+	width: 20%;
+}
+
+.col-md-3{
+	width: 30%;
+
+}
+
+.col-md-4{
+	width: 40%;
+	
+}
+
+.col-md-5{
+	width: 50%;
+}
+
+.col-md-6{
+	width: 60%;
+}
+
+.col-md-7{
+	width: 70%;
+}
+
+.col-md-8{
+	width: 80%;
+}
+
+.col-md-9{
+	width: 90%;
+}
+
+.col-md-10{
+	width: 100%
+}
+
+.col-sm-1{
+	width: 10%;
+}
+
+.col-sm-2{
+	width: 20%;
+}
+
+.col-sm-3{
+	width: 30%;
+}
+
+.col-sm-4{
+	width: 40%;
+}
+
+.col-sm-5{
+	width: 50%;
+}
+
+.col-sm-6{
+	width: 60%;
+}
+
+.col-sm-7{
+	width: 70%;
+}
+
+.col-sm-8{
+	width: 80%;
+}
+
+.col-sm-9{
+	width: 90%;
+}
+
+.col-sm-10{
+	width: 100%;
+}
+
+h1{
+	font-size: 30px;
+	font-family: helvetica;
+}
+
+span{
+	color: red;
+}
+
+.titulos{
+	color: red;
+}
+
+.skills{
+	background-color: red;
+	margin: 2px;
+	font-family: helvetica;
+	color: white;
+}
+
+.negrita{
+	font-weight: bolder;
+	color: black;
+}
+
+.bloque{
+	background-color: lightgrey;
+	margin: 5px;
+}
+
+.separacion{
+	margin-bottom: 5px;
+	border-bottom: 1px solid lightgrey;
+}
+
+.separacion-2{
+		margin-top: 10px;
+	    border-bottom: 1px solid lightgrey;
+}
+
+.separacion-3{
+	margin-top: 10px;
+}
+
+.fechas{
+	color: lightgrey;
+}
+
+.star{
+	color: red;
+	margin: 0 10px;
+}
+
+.bloque-3{
+	width: 100px;
+	height: 40px;
+	color: white;
+	background-color: #735673;
+	text-align: center;
+	border-radius: 5%;
+	margin: 1px; 
+}
+
+.firma{
+	color: lightgrey;
+	float: right;
+	margin-right: 10px;
+}
+
+.offset{
+	margin-left: 10px;
+}
