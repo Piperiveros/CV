@@ -34,6 +34,7 @@ img{
 	float: left;
 }
 
+@media(min-width: 481px){
 .col-md-1{
 	width: 10%;
 
@@ -76,7 +77,9 @@ img{
 .col-md-10{
 	width: 100%
 }
+}
 
+@media(max-width: 480px){
 .col-sm-1{
 	width: 10%;
 }
@@ -116,7 +119,7 @@ img{
 .col-sm-10{
 	width: 100%;
 }
-
+}
 h1{
 	font-size: 30px;
 	font-family: helvetica;
