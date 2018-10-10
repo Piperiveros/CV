@@ -17,6 +17,8 @@ img{
 	position: absolute;
 	border: 5px solid silver;
 	margin-top: -110px;
+	left: 50%;
+	margin-left: -105px;
 
 
 }
@@ -138,6 +140,7 @@ span{
 	margin: 2px;
 	font-family: helvetica;
 	color: white;
+	padding: 10px;
 }
 
 .negrita{
@@ -148,16 +151,19 @@ span{
 .bloque{
 	background-color: lightgrey;
 	margin: 5px;
+	padding: 15px;
 }
 
 .separacion{
 	margin-bottom: 5px;
 	border-bottom: 1px solid lightgrey;
+	margin-right: 10px;
 }
 
 .separacion-2{
 		margin-top: 10px;
 	    border-bottom: 1px solid lightgrey;
+	    margin-right: 10px;
 }
 
 .separacion-3{
@@ -169,7 +175,6 @@ span{
 }
 
 .star{
-	color: red;
 	margin: 0 10px;
 }
 
@@ -181,6 +186,7 @@ span{
 	text-align: center;
 	border-radius: 5%;
 	margin: 1px; 
+	padding: 10px;
 }
 
 .firma{
